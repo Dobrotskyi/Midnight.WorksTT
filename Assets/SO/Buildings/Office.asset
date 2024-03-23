@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 907a5531574ff8548ab849ae84bec39a, type: 3}
+  m_Name: Office
+  m_EditorClassIdentifier: 
+  _prefab: {fileID: -5486402388399626526, guid: 555fb8959400660409bedb6d875ddb87, type: 3}
+  _name: Office
+  _description: 'Creates income for player
+
+
+    Income is multiplied by amount of
+    workers at the office'
+  _progressionConfig: {fileID: 11400000, guid: 5670d4b15e3c3384b884f9cf2aef7cda, type: 2}
+  _id: 203fddfd-f95f-4ba5-8c27-cfb581b11fef

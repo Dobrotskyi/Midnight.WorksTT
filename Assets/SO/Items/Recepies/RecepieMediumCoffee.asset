@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b975e21541b3fd408cda91d55d01f95, type: 3}
+  m_Name: RecepieMediumCoffee
+  m_EditorClassIdentifier: 
+  _parts:
+  - _key: {fileID: 11400000, guid: 7eeba7addcd19be4d8d42262a4604385, type: 2}
+    _value: 1
+  - _key: {fileID: 11400000, guid: 4c4391362af56c244b8d57eb0bb8496f, type: 2}
+    _value: 2
+  _result: {fileID: 11400000, guid: 734a2f5a601e94c44a732f43457b70d2, type: 2}
